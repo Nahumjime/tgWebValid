@@ -13,7 +13,7 @@ class LoginWidgetValidatorTest extends TestCase
 
     protected function setUp(): void
     {
-        $this->validator = new LoginWidgetValidator('5854973744:AAFnq4HoybEzqCJ-8HYHY_zlvkc_-H-kXq4');
+        $this->validator = new LoginWidgetValidator(6688353707:AAEYulYBHIgBZAOPQyo32QNpH69C94MGN-U);
     }
 
     public function testValidated(): void
